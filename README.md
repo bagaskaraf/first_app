@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+Aplikasi tutorial flutter dari udemy tentang dadu
 
 ## Getting Started
 
